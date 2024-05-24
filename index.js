@@ -5,9 +5,9 @@
  * @link        https://www.ioa.tw/
  */
 
-const Dog = function(food = undefined, watch = _ => _ === undefined, timer = null) {
+const Dog = function(timer = null, food = undefined, watch = _ => _ === undefined) {
   if (!(this instanceof Dog)) {
-    return new Dog(food, watch, timer)
+    return new Dog(timer, food, watch)
   }
 
   this._food = food

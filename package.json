@@ -1,6 +1,6 @@
 {
   "name": "@oawu/dog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🐶 我的看門狗",
   "main": "index.js",
   "scripts": {
