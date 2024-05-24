@@ -1,0 +1,30 @@
+{
+  "name": "@oawu/dog",
+  "version": "1.0.0",
+  "description": "🐶 我的看門狗",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oawu/node-dog.git"
+  },
+  "keywords": [
+    "Watch Dog"
+  ],
+  "author": {
+    "name": "OA Wu",
+    "email": "oawu.tw@gmail.com",
+    "url": "https://www.ioa.tw"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oawu/node-dog/issues"
+  },
+  "engines": {
+    "node": ">=15",
+    "npm": ">=9"
+  },
+  "homepage": "https://github.com/oawu/node-dog#readme"
+}
